@@ -882,6 +882,12 @@ p {
   margin-bottom: var(--spacing-md);
 }
 
+.footer__logo-img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
 .footer__logo span {
   color: var(--color-primary-light);
 }
